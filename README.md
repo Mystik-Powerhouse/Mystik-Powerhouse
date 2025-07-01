@@ -24,8 +24,8 @@ A secure Microsoft-authenticated API that protects Minecraft accounts via OAuth2
 ### 📬 Mailer Web App  
 A Gmail-style web client built with **Next.js**, styled using **TailwindCSS**, and powered by my **custom mailserver API**.
 
-### 🤖 Utility & Gamba Discord Bots  
-Bots built for moderation, automation, gambling systems, crypto trades, and real-time monitoring—shipped with robust APIs and dashboards.
+### 🤖 Discord Bots  
+Bots built for moderation, automation, crypto trades, and real-time monitoring—shipped with robust APIs and dashboards.
 
 ---
 
