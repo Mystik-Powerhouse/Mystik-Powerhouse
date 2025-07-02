@@ -19,7 +19,7 @@ I'm a **self-taught full-stack developer** with a passion for building sleek, hi
 ## 🧠 Projects & Tools
 
 ### 🔐 AutoSecure API  
-A secure Microsoft-authenticated API that protects Minecraft accounts via OAuth2 and token validation.
+A secure Microsoft-authenticated API that secures Minecraft accounts via raw Microsoft API calls.
 
 ### 📬 Mailer Web App  
 A Gmail-style web client built with **Next.js**, styled using **TailwindCSS**, and powered by my **custom mailserver API**.
