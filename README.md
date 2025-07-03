@@ -59,5 +59,5 @@ Check out my site or shoot me a message:
 ## 🔗 Links
 
 - 🌐 [Website](https://mystik.lol)
-- 📁 [All Projects](https://mystik.lolprojects)
+- 📁 [All Projects](https://mystik.lol/projects)
 - 💼 [Hire Me](https://mystik.lol/works)
